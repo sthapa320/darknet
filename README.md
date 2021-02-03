@@ -1,4 +1,5 @@
 1. Make a folder called "Cell_Detection" in your google drive. 
+
   a) add two folders inside the main folder called "put_images_here" and "results"
   
 2. Go to this link and save a copy of the file to your google drive. Save it to the folder 
