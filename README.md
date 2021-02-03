@@ -10,4 +10,4 @@ https://colab.research.google.com/drive/1ZUB9c6Vj-amH8jwFdkCvnVAu0BEXjL50?usp=sh
 
 https://www.dropbox.com/s/mxhkwdt8vvbkhoy/final_neutrophil_weights?dl=0
   
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sthapa320/darknet/blob/master/data/setup.png)
