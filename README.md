@@ -22,9 +22,13 @@ PART 2: Running the code
 
 1. In your "put_images_here" folder, add a zipped folder containing your images. This folder MUST be named "images.zip" (see below)
 
+![alt text](https://github.com/sthapa320/darknet/blob/master/setup0.png)
+
 2. Open the saved copy of the code created in PART 1, step 2. 
 
 3. After opening the code, go to Runtime tab, near the file tab, and select "change runtime type" and ensure it is set to GPU. (see below)
+
+![alt text](https://github.com/sthapa320/darknet/blob/master/gpu.png)
 
 4. Now, run ONLY the first two cells by clicking the dark colored arrows.  
 
@@ -33,9 +37,16 @@ PART 2: Running the code
 
 5. Before proceeding, return to your "Cell_Detection" folder and ensure it looks EXACTLY as below.(see below)
 
+![alt text](https://github.com/sthapa320/darknet/blob/master/setup.png)
+
 6. Continue to run the following cells in the code. After this step, the output will be in your "results" folder.  
   
-5. After each run, go to the tab labeled "RAM/Disk" and click "terminate." Then, remove all data from "put_images_here" and "results" folder. 
+5. After each run, go to the tab labeled "RAM/Disk" and click "terminate." (see below) Then, remove all data from "put_images_here" and "results" folder. 
+
+![alt text](https://github.com/sthapa320/darknet/blob/master/ter0.png)
+
+![alt text](https://github.com/sthapa320/darknet/blob/master/ter1.png)
+
 
 6. Repeat 1-5 for all necessary samples. 
 
@@ -47,7 +58,8 @@ PART 2: Running the code
 
 
 
-Common Errors and How to fix them?
+
+COMMON ERRORS AND HOW TO FIX THEM
 
 1. When running the last cell you get an error "FileNotFoundError"
 
