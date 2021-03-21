@@ -14,3 +14,6 @@ https://colab.research.google.com/drive/1ZUB9c6Vj-amH8jwFdkCvnVAu0BEXjL50?usp=sh
 https://www.dropbox.com/s/mxhkwdt8vvbkhoy/final_neutrophil_weights?dl=0
   
 ![alt text](https://github.com/sthapa320/darknet/blob/master/data/setup.png)
+
+4. Open the google colab link saved in step 2 and run the program.
+  *link contains all directions necessary to run the code
