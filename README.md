@@ -63,3 +63,7 @@ This means your folder of images isn't labeled correclty. Make sure your folder 
 
 This means you didn't download the file in PART 1, step 3. Or you did download the file but didn't put it inside your "Cell_Detection" folder. 
 
+4. My output images have random detection boxes on them, or misses many cells in the image
+
+Unfortunately, this means you must manually count. This issue may be result of poor image quality or due to our limited training dataset. Always verify the output, machines aren't perfect... yet.  
+
