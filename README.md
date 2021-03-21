@@ -9,7 +9,7 @@ we made in step 1 called "Cell_Detection"
   
 https://colab.research.google.com/drive/1ZUB9c6Vj-amH8jwFdkCvnVAu0BEXjL50?usp=sharing
 
-3. Download this weight file and upload it also to the "Cell_Detection" folder in google drive 
+3. Download this weight file and upload it also to the "Cell_Detection" folder in google drive (your "Cell_Detection" folder should match what is below)
 
 https://www.dropbox.com/s/mxhkwdt8vvbkhoy/final_neutrophil_weights?dl=0
   
