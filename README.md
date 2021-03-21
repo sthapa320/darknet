@@ -1,3 +1,5 @@
+This model utilizes strictly yolov3 not the updated yolov4
+
 PART 1: Setting up the code 
 
 1. Make a folder called "Cell_Detection" in your google drive. 
